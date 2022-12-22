@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(244, 99, 123);
+}
+
+h1 {
+    color:hotpink;
+    background-color: greenyellow;
+}
+
+h3 {
+    color: greenyellow;
+    background-color: hotpink;
+}
